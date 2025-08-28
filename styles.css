@@ -123,12 +123,10 @@ button {
     background-color: rgb(230, 232, 240);
     display: flex;
     justify-content: center;
-    min-height: fit-content;
 }
 
 .projects {
     margin: 15px;
-
 }
 
 .projects-container {
@@ -178,12 +176,6 @@ button {
     padding: 10px;
 }
 
-.main-second-col {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-}
-
 .announcements {
     margin: 15px 15px 15px 0px;
 }
@@ -216,7 +208,7 @@ button {
 }
 
 .trending {
-    margin: 0px 15px 15px 0px;
+    margin: 30px 15px 0px 0px;
 }
 
 .trending-card {
